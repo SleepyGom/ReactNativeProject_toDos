@@ -31,4 +31,3 @@ npm start
 
 ## 라이선스
 
-MIT 
