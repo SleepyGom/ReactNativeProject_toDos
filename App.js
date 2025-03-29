@@ -42,7 +42,11 @@ export default function App() {
 
   const loadToDos = async () => {
     const s = await AsyncStorage.getItem(STORAGE_KEY)
-    setToDos(JSON.parse(s))
+    if (s !== null) {
+      setToDos(JSON.parse(s))
+    } else {
+      setToDos({})
+    }
   }
 
   const loadTab = async () => {
