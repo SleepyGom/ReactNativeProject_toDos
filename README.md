@@ -5,22 +5,22 @@ React Native로 만든 할 일 관리 앱입니다.
 ## 앱 동작 영상
 
 ### 탭 이동
-![Moving Tab](assets/movingtab.gif)
+<img src="assets/movingtab.gif" width="300" />
 
 ### 할 일 추가
-![Making Content](assets/makingcontent.gif)
+<img src="assets/makingcontent.gif" width="300" />
 
 ### 할 일 체크
-![Check Content](assets/checkcontent.gif)
+<img src="assets/checkcontent.gif" width="300" />
 
 ### 할 일 수정
-![Modify Content](assets/modifycontent.gif)
+<img src="assets/modifycontent.gif" width="300" />
 
 ### 할 일 삭제
-![Delete Content](assets/deletecontent.gif)
+<img src="assets/deletecontent.gif" width="300" />
 
 ### 앱 다시 시작시 탭 고정
-![Position Change](assets/position.gif)
+<img src="assets/position.gif" width="300" />
 
 ## 기능
 
