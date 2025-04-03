@@ -32,6 +32,9 @@
         "projectId": "30ca815b-ed80-472f-9df9-16674fbfb265"
       }
     },
-    "runtimeVersion": "1.0.0"
+    "runtimeVersion": "1.0.0",
+    "updates": {
+      "url": "https://u.expo.dev/30ca815b-ed80-472f-9df9-16674fbfb265"
+    }
   }
 }
